@@ -55,7 +55,7 @@ const BuiltInDc kBuiltInDcsIPv6Test[] = {
 };
 
 const char *kTestPublicRSAKeys[] = { "\
------BEGIN RSA PUBLIC KEY——\n\
+-----BEGIN RSA PUBLIC KEY-----\n\
 MIIBCgKCAQEAxaibKpPpSkdvJXPl3uk/G77x01S3dIy6z42K4FH+/TsVyOJuNRmw\n\
 YQzSTLpNOZiQAwCOhNvFiTPfZANiJGOjkFwOMIfKWL2LqUe0Ici3x4vNhbdiNJ4Y\n\
 YIiMIF6BT/jnT2/EdLYi9g+Fhb/04HKe8OseHnSQV8wMmUfxrNas37/JrOQSIriS\n\
@@ -65,7 +65,7 @@ rziMoQbdqkvgLkwS8E8+rtpyquNx+iTiEwIDAQAB\n\
 -----END RSA PUBLIC KEY-----" };
 
 const char *kPublicRSAKeys[] = { "\
------BEGIN RSA PUBLIC KEY——\n\
+-----BEGIN RSA PUBLIC KEY-----\n\
 MIIBCgKCAQEAxaibKpPpSkdvJXPl3uk/G77x01S3dIy6z42K4FH+/TsVyOJuNRmw\n\
 YQzSTLpNOZiQAwCOhNvFiTPfZANiJGOjkFwOMIfKWL2LqUe0Ici3x4vNhbdiNJ4Y\n\
 YIiMIF6BT/jnT2/EdLYi9g+Fhb/04HKe8OseHnSQV8wMmUfxrNas37/JrOQSIriS\n\
